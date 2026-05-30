@@ -8,6 +8,7 @@
 | [0029-divide-two-integers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,4 +22,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
