@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
