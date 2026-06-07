@@ -39,6 +39,7 @@
 | [0066-plus-one](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -113,4 +114,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
