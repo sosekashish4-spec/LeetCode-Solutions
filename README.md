@@ -50,6 +50,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -97,6 +98,7 @@
 | [0169-majority-element](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +122,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -127,4 +130,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
