@@ -91,6 +91,7 @@
 | [0169-majority-element](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -140,4 +141,5 @@
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
