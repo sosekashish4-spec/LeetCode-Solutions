@@ -126,6 +126,7 @@
 | [0088-merge-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Counting Sort
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0520-detect-capital](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |
