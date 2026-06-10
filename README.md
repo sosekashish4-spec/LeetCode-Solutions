@@ -146,6 +146,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Queue
