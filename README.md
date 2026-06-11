@@ -98,6 +98,7 @@
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -154,6 +155,7 @@
 | [0520-detect-capital](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [1768-merge-strings-alternately](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
