@@ -12,6 +12,7 @@
 | [0231-power-of-two](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Binary Search
@@ -22,6 +23,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
