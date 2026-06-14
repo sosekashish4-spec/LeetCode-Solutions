@@ -29,6 +29,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -71,6 +72,7 @@
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -113,6 +115,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0859-buddy-strings) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -127,6 +130,7 @@
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
@@ -148,6 +152,7 @@
 | [0088-merge-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Counting Sort
 |  |
