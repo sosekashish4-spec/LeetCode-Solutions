@@ -17,6 +17,7 @@
 | [0441-arranging-coins](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2235-add-two-integers) |
