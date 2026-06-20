@@ -20,6 +20,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
