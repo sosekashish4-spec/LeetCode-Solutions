@@ -78,6 +78,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -139,6 +140,7 @@
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -163,6 +165,7 @@
 | [0088-merge-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Counting Sort
