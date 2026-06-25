@@ -190,6 +190,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
