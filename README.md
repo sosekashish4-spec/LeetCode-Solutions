@@ -173,6 +173,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
@@ -225,4 +226,5 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
