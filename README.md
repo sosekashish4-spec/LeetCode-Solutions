@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -151,6 +152,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -166,6 +168,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -224,9 +227,14 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
