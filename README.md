@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -231,6 +232,7 @@
 | [0086-partition-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
