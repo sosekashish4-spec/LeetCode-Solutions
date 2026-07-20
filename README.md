@@ -21,6 +21,7 @@
 | [0445-add-two-numbers-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
