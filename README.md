@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -186,6 +188,7 @@
 | [0143-reorder-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
