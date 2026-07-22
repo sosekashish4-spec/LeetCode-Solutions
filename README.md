@@ -134,6 +134,7 @@
 | [0412-fizz-buzz](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Merge Sort
 |  |
 | ------- |
