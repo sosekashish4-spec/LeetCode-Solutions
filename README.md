@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -288,6 +289,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
