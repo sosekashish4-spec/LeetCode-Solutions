@@ -11,11 +11,18 @@ class Solution {
             else st.pop();
             }
         }
-
-        while(st.size()!=0){
-            char ele=st.pop();
+        Stack<Character>st1=new Stack<>();
+        reverse(st,st1);
+        while(st1.size()!=0){
+            char ele=st1.pop();
             sb.append(ele);
         }
-        return sb.reverse().toString();
+        return sb.toString();
+    }
+    public void reverse(Stack<Character>a,Stack<Character>b){
+        while(a.size()!=0){
+            char ch=a.pop();
+            b.push(ch);
+        }
     }
 }
