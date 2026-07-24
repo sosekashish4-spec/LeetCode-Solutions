@@ -69,6 +69,7 @@
 | [0234-palindrome-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
 |  |
@@ -299,6 +301,7 @@
 | [0682-baseball-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -323,4 +326,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
