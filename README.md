@@ -89,6 +89,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -298,6 +299,7 @@
 | [0143-reorder-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -329,5 +331,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
