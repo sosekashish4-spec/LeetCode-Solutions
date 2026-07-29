@@ -21,14 +21,9 @@ class Solution {
             st.push(j);
         }
 
-        for(int el:ps) System.out.print(el+" ");
-        System.out.println();
-        for(int ele:ns) System.out.print(ele+" ");
-        System.out.println();
         int max=Integer.MIN_VALUE;
         for(int k=0;k<n;k++){
             int area=(ns[k]-ps[k]-1)*arr[k];
-            if(area<0) area=(ps[k]-ns[k])*arr[k];
             if(area>max) max=area;
         }
         return max;
