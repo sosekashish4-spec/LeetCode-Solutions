@@ -27,6 +27,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -69,6 +70,7 @@
 | [0234-palindrome-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -113,6 +115,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -140,6 +143,7 @@
 | [0412-fizz-buzz](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Hash Table
@@ -250,6 +254,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
