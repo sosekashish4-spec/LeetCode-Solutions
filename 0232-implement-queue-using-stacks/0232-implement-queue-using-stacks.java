@@ -1,26 +1,22 @@
 class MyQueue {
     Stack<Integer>st=new Stack<>();
     Stack<Integer>helper=new Stack<>();
-    public MyQueue() {                    //add efficient approach
+    public MyQueue() {                    //pop and peek efficient approach
         
     }
     
     public void push(int x) {
-        st.push(x);
+        while(st.size()>0) helper.push(st.pop());
+         st.push(x);
+        while(helper.size()>0) st.push(helper.pop());
     }
     
     public int pop() {
-        while(st.size()>1) helper.push(st.pop());
-        int f=st.pop();
-        while(helper.size()>0) st.push(helper.pop());
-        return f;
+        return st.pop();
     }
     
     public int peek() {
-        while(st.size()>1) helper.push(st.pop());
-        int f=st.peek();
-        while(helper.size()>0)  st.push(helper.pop());
-        return f;
+         return st.peek();
     }
     
     public boolean empty() {
