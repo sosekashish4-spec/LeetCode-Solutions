@@ -1,29 +1,23 @@
 class MyStack {
     Queue<Integer> q=new LinkedList<>();
-    public MyStack() {          //Push efficient Approach
+    public MyStack() {          //POP & PEEK efficient Approach
         
     }
     
-    public void push(int x) {       //O(1)
+    public void push(int x) {       //O(n)
         q.add(x);
-    }
-    
-    public int pop() {              //O(n)
         int n=q.size();
         for(int i=1;i<n;i++){
             q.add(q.remove());
         }
+    }
+    
+    public int pop() {              //O(1)
         return q.remove();
     }
     
-    public int top() {             //O(n)
-        int n=q.size();
-        for(int i=1;i<n;i++){
-            q.add(q.remove());
-        }
-        int ans=q.peek();
-        q.add(q.remove());
-        return ans;
+    public int top() {             //O(1)
+        return q.peek();
     }
     
     public boolean empty() {
