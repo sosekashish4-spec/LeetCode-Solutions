@@ -349,6 +349,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -384,6 +385,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -408,6 +410,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -426,4 +429,5 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
