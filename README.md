@@ -380,6 +380,7 @@
 | [0226-invert-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | [0226-invert-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -413,4 +415,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
