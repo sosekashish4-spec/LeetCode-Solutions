@@ -103,6 +103,7 @@
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -448,4 +449,8 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
