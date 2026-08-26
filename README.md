@@ -104,6 +104,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0946-validate-stack-sequences](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -148,6 +149,7 @@
 | [0412-fizz-buzz](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -328,6 +330,7 @@
 | [0445-add-two-numbers-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
