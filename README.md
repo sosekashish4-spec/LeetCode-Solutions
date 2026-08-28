@@ -81,6 +81,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Linked List
 |  |
