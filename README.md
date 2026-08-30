@@ -262,6 +262,7 @@
 | [0022-generate-parentheses](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0520-detect-capital) |
@@ -288,6 +289,7 @@
 | [0022-generate-parentheses](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -413,6 +416,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -443,6 +447,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
