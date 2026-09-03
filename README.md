@@ -381,6 +381,7 @@
 | [0257-binary-tree-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0938-range-sum-of-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [2596-check-knight-tour-configuration](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Doubly-Linked List
@@ -432,6 +433,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [2596-check-knight-tour-configuration](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -494,4 +496,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
