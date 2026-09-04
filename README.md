@@ -97,6 +97,7 @@
 | [0136-single-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@
 | [0036-valid-sudoku](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -374,6 +376,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -434,6 +437,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -503,6 +507,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
