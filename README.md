@@ -134,12 +134,14 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2596-check-knight-tour-configuration](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3903-smallest-stable-index-i](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
