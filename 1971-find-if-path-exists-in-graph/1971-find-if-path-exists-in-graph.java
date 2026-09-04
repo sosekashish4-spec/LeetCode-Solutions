@@ -1,15 +1,10 @@
 class Solution {
     public void paths(int n, List<List<Integer>>ans, int source, int destination,boolean [] visited){
-        Queue<Integer>q=new LinkedList<>();
-        q.add(source);
         visited[source]=true;
-        while(q.size()!=0){
-            int front=q.remove();
-            for(int ele:ans.get(front)){
-                if(!visited[ele]){
-                    q.add(ele);
-                    visited[ele]=true;
-                }
+        for(int ele:ans.get(source)){
+            if(!visited[ele]){
+                visited[ele]=true;
+                paths(n,ans,ele,destination,visited);
             }
         }
     }
