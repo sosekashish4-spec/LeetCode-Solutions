@@ -390,6 +390,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -448,6 +449,7 @@
 | [0226-invert-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -526,6 +528,7 @@
 | [0210-course-schedule-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
@@ -541,8 +544,17 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
