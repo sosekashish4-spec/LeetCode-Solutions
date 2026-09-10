@@ -1,26 +1,21 @@
 class Solution {
-    public void kahn(int start,boolean[] visited,int[] indegree,ArrayList<Integer>ans,ArrayList<ArrayList<Integer>>adj){
+    static boolean ans;
+    public void dfs(int start,boolean[] visited,boolean[] paths,ArrayList<ArrayList<Integer>>adj){
         visited[start]=true;
-        Queue<Integer>q=new LinkedList<>();
-        q.add(start);
-        while(q.size()!=0){
-            int front=q.remove();
-            ans.add(front);
-            if(adj.get(front).size()!=0){
-                for(int ele:adj.get(front)){
-                    indegree[ele]--;
-                    if(indegree[ele]==0){
-                        q.add(ele);
-                        visited[ele]=true;
-                    }
-                }
+        paths[start]=true;
+        for(int i:adj.get(start)){
+            if(paths[i]){
+                ans=false;
+                return;
             }
+            if(!visited[i]) dfs(i,visited,paths,adj);
         }
+        paths[start]=false;
     }
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        ans=true;
         boolean[] visited=new boolean[numCourses];
-        int[] indegree=new int[numCourses];
-        ArrayList<Integer>ans=new ArrayList<>();
+        boolean[] paths=new boolean[numCourses];
         ArrayList<ArrayList<Integer>>adj=new ArrayList<>();
 
         for(int i=0;i<numCourses;i++){
@@ -32,15 +27,9 @@ class Solution {
             adj.get(b).add(a);
         }
 
-        for(int i=0;i<indegree.length;i++){
-            for(int j=0;j<adj.get(i).size();j++){
-                indegree[adj.get(i).get(j)]++;
-            }
-        }
-
         for(int i=0;i<numCourses;i++){
-            if(!visited[i] && indegree[i]==0) kahn(i,visited,indegree,ans,adj);
+            if(!visited[i]) dfs(i,visited,paths,adj);
         }
-        return (ans.size()==numCourses);
+        return ans;
     }
 }
