@@ -125,6 +125,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1572-matrix-diagonal-sum](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -509,6 +510,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 ## Data Stream
 |  |
 | ------- |
@@ -534,6 +536,7 @@
 | [0785-is-graph-bipartite](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
@@ -565,8 +568,10 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
