@@ -389,6 +389,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -448,6 +449,7 @@
 | [0210-course-schedule-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -505,6 +507,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
@@ -527,6 +530,7 @@
 | [0207-course-schedule](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -557,4 +561,12 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
