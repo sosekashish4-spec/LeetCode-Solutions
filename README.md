@@ -263,6 +263,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -553,6 +554,7 @@
 | [0841-keys-and-rooms](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -567,6 +569,7 @@
 | [0207-course-schedule](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -585,10 +588,12 @@
 | [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
