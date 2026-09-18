@@ -21,8 +21,6 @@ class Pair{
     }
 }
 class Solution {
-    
-
     public void djk(PriorityQueue<Triplet>pq,ArrayList<ArrayList<Pair>>adj,int src, int dst, int k,int []arr){
         pq.add(new Triplet(src,0,0));
         while(pq.size()!=0){
@@ -34,16 +32,12 @@ class Solution {
                 int totaldist=t.weight+front.dist;
                 if(arr[t.node]>totaldist){
                     arr[t.node]=totaldist;
-                    // if(newflight<=k+1 && t.node==dst){
-                    //     if((ans!=-1 && ans>totaldist)||ans==-1) ans=totaldist;
-                    // } 
                     pq.add(new Triplet(t.node,totaldist,newflight+1));
                 }
             }
         }
     }
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        
         PriorityQueue<Triplet>pq=new PriorityQueue<>();
         ArrayList<ArrayList<Pair>>adj=new ArrayList<>();
         for(int i=0;i<n;i++) adj.add(new ArrayList<>());
