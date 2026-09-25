@@ -1,22 +1,49 @@
 class Solution {
-    public void dfs(int n,boolean []visited,int[][] isConnected){
-         visited[n]=true;
-         for(int j=0;j<isConnected[0].length;j++){ 
-            if(isConnected[n][j]==1 && visited[j]==false){
-                visited[j]=true;
-                dfs(j,visited,isConnected);
-            }
-         }
+    static int []parent;
+    static int []size;
+
+    public int leader(int x){
+        if(parent[x]==x) return x;
+        int leader=parent[x];   //path compression optimization
+        parent[x]=leader;
+        return leader;
     }
+
+    public void union(int a,int b){
+        int c=leader(a);
+        int d=leader(b);
+        if(c!=d){
+            if(size[c]>size[d]){ //optimization with size array 
+                parent[d]=c;
+                size[c]+=size[d];
+            }else{
+                parent[c]=d;
+                size[d]+=size[c];
+            }
+        }  
+    }
+
     public int findCircleNum(int[][] isConnected) {
         int n=isConnected.length;
-        int count=0;
-        boolean []visited=new boolean [n];
+        parent=new int[n+1];
+        size=new int[n+1];
+         
+        for(int i=1;i<n+1;i++) {
+            parent[i]=i;
+            size[i]=1;
+        }
+
         for(int i=0;i<n;i++){
-            if(!visited[i]){
-                dfs(i,visited,isConnected);
-                count++;
+            for(int j=0;j<n;j++){
+                if(i!=j && isConnected[i][j]==1){
+                    union(i+1,j+1);
+                }
             }
+        }
+       
+        int count=0;
+        for(int j=1;j<n+1;j++){
+            if(parent[j]==j) count++;
         }
         return count;
     }
