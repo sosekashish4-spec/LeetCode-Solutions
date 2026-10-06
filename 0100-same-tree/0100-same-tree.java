@@ -33,8 +33,7 @@ class Solution {
         ArrayList<Integer>a2=new ArrayList<>();
         traverse(p,a1);
         traverse(q,a2);
-        System.out.println(a1);
-        System.out.println(a2);
+        
         if(a1.size()!=a2.size()) return false;
         for(int i=0;i<a1.size();i++){
              if (!a1.get(i).equals(a2.get(i))) return false;
