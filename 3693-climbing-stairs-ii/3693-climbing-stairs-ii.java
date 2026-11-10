@@ -6,18 +6,14 @@ class Solution {
 
     public int climbStairs(int n, int[] costs) {
         dp = new int[n + 1];
-        Arrays.fill(dp, -1);
-
         return totalCost(n, costs);
     }
 
     public int totalCost(int i, int[] costs) {
-
-        // Base case
         if (i == 0) return 0;
 
         // Memoization
-        if (dp[i] != -1) return dp[i];
+        if (dp[i] != 0) return dp[i];
 
         int one = Integer.MAX_VALUE;
         int two = Integer.MAX_VALUE;
