@@ -140,6 +140,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2596-check-knight-tour-configuration](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3693-climbing-stairs-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -271,6 +272,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
