@@ -117,6 +117,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -213,6 +214,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0561-array-partition](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -226,6 +228,7 @@
 | [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -263,6 +266,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -362,6 +366,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -558,6 +563,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -667,4 +673,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
