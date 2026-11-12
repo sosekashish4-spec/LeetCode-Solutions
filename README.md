@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -686,4 +688,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
