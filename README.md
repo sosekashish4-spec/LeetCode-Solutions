@@ -23,6 +23,7 @@
 | [0492-construct-the-rectangle](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -280,6 +281,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3693-climbing-stairs-ii](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
@@ -321,6 +323,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sosekashish4-spec/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
